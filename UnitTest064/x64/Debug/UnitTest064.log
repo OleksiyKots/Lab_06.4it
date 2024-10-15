@@ -1,0 +1,5 @@
+﻿  UnitTest064.cpp
+C:\Users\DellAs\source\repos\Lab_06.4\Lab_06.4.cpp(105,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest064.cpp')
+  
+  UnitTest064.vcxproj -> C:\Users\DellAs\source\repos\Lab_06.4\x64\Debug\UnitTest064.dll
